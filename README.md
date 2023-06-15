@@ -1,1 +1,1 @@
-[https://gitlab.com/aqude](отныне тут.)
+[отныне тут.](https://gitlab.com/aqude)
